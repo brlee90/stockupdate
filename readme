@@ -1,0 +1,7 @@
+This Python program pulls stock prices from Yahoo Finance and updates a spreadsheet with current market prices.
+It has been tested with Openoffice and Libreoffice but not Excel.
+It can be a bit slow, so the user is notified of completion by a small pop-up window.
+
+Input your stocks ticker symbol in the tickerList on line 47.
+Put the path to your spreadsheet in the filePath variable on line 48. Note that all formulas and formatting will be lost when the spreadsheet updates.
+  I use an otherwise blank document for this and link those cells with my primary document.
