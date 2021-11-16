@@ -45,7 +45,7 @@ class popup():
 
 #Declare lists and spreadsheet filepath
 tickerList = ['VTSAX', 'VTIAX', 'VGSLX', 'ARKK', 'ARKF', 'MSOS']
-filepath = r'C:\Users\HP\Documents\Brandon\Python\StockData.ods'
+filepath = r'C:\Users\HP\Documents\Python\StockData.ods'
 tickerData = []
 
 #Get current market price for each fund
